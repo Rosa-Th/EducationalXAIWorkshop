@@ -1,4 +1,4 @@
-# Explainable AI Examples Repository
+# Explainable AI Workshop
 
 ## Overview
 
